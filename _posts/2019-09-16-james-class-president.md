@@ -2,4 +2,4 @@
 
 James is our class president! All hail the king!
 
-![king-james](https://ubc-mds.slack.com/files/UMZLVVBJ4/FN8Q0CQAZ/image_from_ios.jpg)
+![king-james](https://amp.businessinsider.com/images/5d264a8ea17d6c0ad8074b14-1136-568.jpg)
