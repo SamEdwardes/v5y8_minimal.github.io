@@ -1,34 +1,12 @@
----
-layout: post
-title:  "Jekyll true minimal theme"
-date:   2018-01-01 23:22:40 +0300
----
+Hello World
+(fresh prince of bel-air lyrics taken from https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-fresh-prince-of-bel-air-lyrics)
 
-True minimal theme is extremely lightweight and ascetic jekyll theme.
+Now this is a story all about how My life got flipped turned upside down And I’d like to take a minute, just sit right there I’ll tell you how I became the prince of a town called Bel-Air
 
-This theme has only one css file, which is used for source code highlighting. 
+In West Philadelphia born and raised On the playground is where I spent most of my days Chilling out, maxing, relaxing all cool And all shooting some b-ball outside of the school When a couple of guys who were up to no good Started making trouble in my neighborhood I got in one little fight and my mom got scared And said “You’re moving with your auntie and uncle in Bel-Air”
 
+I begged and pleaded with her day after day But she packed my suitcase and sent me on my way She gave me a kiss and then she gave me my ticket I put my Walkman on and said “I might as well kick it” First class, yo, this is bad Drinking orange juice out of a champagne glass Is this what the people of Bel-Air living like? Hmmm, this might be all right But wait, I hear they’re prissy, bourgeois, and all that Is this the type of place that they should send this cool cat? I don’t think so, I’ll see when I get there I hope they’re prepared for the Prince of Bel-Air
 
-# Heading 1
-## Heading 2
-### Heading 3
+Well, uh, the plane landed and when I came out There was a dude looked like a cop standing there with my name out I ain’t trying to get arrested yet, I just got here I sprang with the quickness like lightning, disappeared I whistled for a cab and when it came near The license plate said ‘Fresh’ and it had dice in the mirror If anything I could say that this cab was rare But I thought “Nah, forget it, yo holmes, to Bel-Air!” I pulled up to a house about seven or eight And I yelled to the cabbie “Yo homes, smell ya later” Looked at my kingdom, I was finally there To sit on my throne as the Prince of Bel-Air
 
-List of entries:
-
-- item 1
-- item 2
-- item 3
-- item 4
-
-Source code are highlighted:
-
-```perl
-#!/usr/bin/perl
-
-sub print_hello {
-    print "Hello, Jekyll!\n";
-}
-
-print_hello;
-```
-    
+Written on March 3, 2014
